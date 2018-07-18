@@ -4,7 +4,8 @@ public class hehe {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.print("好多号");
+		System.out.println("好多号");
+		System.out.println("我开始修改项目");
 	}
 
 }
